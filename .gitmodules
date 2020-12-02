@@ -1,0 +1,12 @@
+[submodule "single-spa-demo-root-config"]
+	path = single-spa-demo-root-config
+	url = git@github.com:yetti/single-spa-demo-root-config.git
+[submodule "single-spa-demo-nav"]
+	path = single-spa-demo-nav
+	url = git@github.com:yetti/single-spa-demo-nav.git
+[submodule "single-spa-demo-page1"]
+	path = single-spa-demo-page1
+	url = git@github.com:yetti/single-spa-demo-page1.git
+[submodule "single-spa-demo-page2"]
+	path = single-spa-demo-page2
+	url = git@github.com:yetti/single-spa-demo-page2.git
